@@ -53,7 +53,7 @@ const MenuList = ({ items }) => {
 const Header = () => {
     const menuItems = ['HOW IT WORKS', 'ABOUT', 'WORK', 'PRICING', 'BLOG'];
     const scrollToSection = () => {
-        const section = document.getElementById('miSeccion');
+        const section = document.getElementById('getStarted');
         if (section) {
             section.scrollIntoView({ behavior: 'smooth' });
         }

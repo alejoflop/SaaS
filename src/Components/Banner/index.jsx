@@ -26,6 +26,7 @@ const StyledTitle = styled.p`
     color: ${letraSemiOscura};
     font-weight: 700;
     text-align: center;
+    line-height: 3.406rem;
 `;
 
 const StyledTitlePrimary = styled.span`
