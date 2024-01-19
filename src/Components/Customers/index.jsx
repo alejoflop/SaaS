@@ -7,11 +7,7 @@ import Acc from "../../Assets/accel.svg"
 import a16z from "../../Assets/a16z.svg"
 import line from "../../Assets/Line1.svg"
 
-import { fondoBanner } from "../UI/variables";
-import { letraSemiOscura } from "../UI/variables";
 import { letraPrimario } from "../UI/variables";
-import { colorPrimario } from "../UI/variables";
-import { letraOscura } from "../UI/variables";
 import { fondoOscuro } from "../UI/variables";
 
 const CustomersDiv = styled.div`

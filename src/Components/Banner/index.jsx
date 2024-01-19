@@ -10,7 +10,6 @@ import { letraSemiOscura } from "../UI/variables";
 import { letraPrimario } from "../UI/variables";
 import { colorPrimario } from "../UI/variables";
 import { letraOscura } from "../UI/variables";
-import { fondoOscuro } from "../UI/variables";
 
 const BannerSection = styled.div`
     background-color: ${fondoBanner};
