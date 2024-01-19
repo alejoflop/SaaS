@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.js": "/SaaS/static/js/main.6c598fc6.js",
+    "main.js": "/SaaS/static/js/main.1e58c1ba.js",
+    "static/media/article3.png": "/SaaS/static/media/article3.49c39301bf0119d222ef.png",
+    "static/media/article2.png": "/SaaS/static/media/article2.a664240d51d531267a09.png",
+    "static/media/article1.png": "/SaaS/static/media/article1.81565b64652d08bd8955.png",
     "static/media/banner.png": "/SaaS/static/media/banner.96fa7b55878df3080e12.png",
+    "static/media/StepsImg1.svg": "/SaaS/static/media/StepsImg1.4152d56327abcfca9547bfb6e2bc519f.svg",
+    "static/media/StepsImg2.svg": "/SaaS/static/media/StepsImg2.1dd4d763788ef5617866dfa7cfa3c331.svg",
+    "static/media/StepsImg3.svg": "/SaaS/static/media/StepsImg3.bc4b01dc17dec065fe80e090e9322fc3.svg",
     "static/media/combinator.svg": "/SaaS/static/media/combinator.61e6eb7e75be9960c1d31dd04961e6e7.svg",
     "static/media/accel.svg": "/SaaS/static/media/accel.f01557d5cb5680f1a34d21c60e1da9c2.svg",
     "static/media/logo.svg": "/SaaS/static/media/logo.ae449403b6dc3ea3d981b28689a964c6.svg",
+    "static/media/fast.svg": "/SaaS/static/media/fast.f4ee7d6c6088c85e3ad6fd679cafb2de.svg",
     "static/media/sequioia.svg": "/SaaS/static/media/sequioia.c93d662a159efdf34171324b08a8d8cb.svg",
     "static/media/a16z.svg": "/SaaS/static/media/a16z.6b33b29d7e41c143a98f74989547218c.svg",
+    "static/media/Eclipe2.svg": "/SaaS/static/media/Eclipe2.c317f9b7a0048c4228e86b7ca2dd95be.svg",
+    "static/media/Eclipe3.svg": "/SaaS/static/media/Eclipe3.1bee899cb4daab887708a1bd961e34d7.svg",
+    "static/media/adaptable.svg": "/SaaS/static/media/adaptable.3d65a6a54b2658b4247dcd36fba74e20.svg",
+    "static/media/Eclipse1.svg": "/SaaS/static/media/Eclipse1.a561d5812d00e1245befc56ced9f65e9.svg",
+    "static/media/cost.svg": "/SaaS/static/media/cost.6000928c0bd43e632b9f7e666a3837c0.svg",
     "index.html": "/SaaS/index.html",
     "static/media/check.svg": "/SaaS/static/media/check.ff45f50db755dcf1cf98ca77b5394d8f.svg",
     "static/media/Line1.svg": "/SaaS/static/media/Line1.8d8c57fa5933cd5d1ca36e89ea545874.svg",
-    "main.6c598fc6.js.map": "/SaaS/static/js/main.6c598fc6.js.map"
+    "main.1e58c1ba.js.map": "/SaaS/static/js/main.1e58c1ba.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c598fc6.js"
+    "static/js/main.1e58c1ba.js"
   ]
 }
