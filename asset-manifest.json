@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/SaaS/static/js/main.6c598fc6.js",
+    "static/media/banner.png": "/SaaS/static/media/banner.96fa7b55878df3080e12.png",
+    "static/media/combinator.svg": "/SaaS/static/media/combinator.61e6eb7e75be9960c1d31dd04961e6e7.svg",
+    "static/media/accel.svg": "/SaaS/static/media/accel.f01557d5cb5680f1a34d21c60e1da9c2.svg",
+    "static/media/logo.svg": "/SaaS/static/media/logo.ae449403b6dc3ea3d981b28689a964c6.svg",
+    "static/media/sequioia.svg": "/SaaS/static/media/sequioia.c93d662a159efdf34171324b08a8d8cb.svg",
+    "static/media/a16z.svg": "/SaaS/static/media/a16z.6b33b29d7e41c143a98f74989547218c.svg",
+    "index.html": "/SaaS/index.html",
+    "static/media/check.svg": "/SaaS/static/media/check.ff45f50db755dcf1cf98ca77b5394d8f.svg",
+    "static/media/Line1.svg": "/SaaS/static/media/Line1.8d8c57fa5933cd5d1ca36e89ea545874.svg",
+    "main.6c598fc6.js.map": "/SaaS/static/js/main.6c598fc6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6c598fc6.js"
+  ]
+}
