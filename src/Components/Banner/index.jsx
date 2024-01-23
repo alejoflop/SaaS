@@ -114,7 +114,7 @@ const ImgBanner = styled.img`
 
 const Banner = () => {
     const scrollToSection = () => {
-        const section = document.getElementById('miSeccion');
+        const section = document.getElementById('start');
         if (section) {
             section.scrollIntoView({ behavior: 'smooth' });
         }

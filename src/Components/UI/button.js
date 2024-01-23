@@ -2,14 +2,15 @@ import React from 'react';
 import styled from 'styled-components';
 import { colorPrimario } from './variables';
 import { letraPrimario } from './variables';
+import { disable } from './variables';
 
 const StyledButton = styled.button`
-    background-color: ${(props) => props.backgroundColor || colorPrimario};
+    background-color: ${(props) => props.backgroundColor || colorPrimario || disable};
     color: #fff;
     padding: 10px 27px;
     border: none;
     border-radius: 9px;
-    cursor: pointer;
+    cursor: ${(props) => (props.pointer ? 'pointer' : 'auto')};
     font-size: 15px;
     font-weight: 700;
     text-transform: uppercase;
@@ -25,12 +26,13 @@ const StyledButton = styled.button`
     }
 `;
 
-const Button = ({ children, onClick, backgroundColor, hoverColor }) => {
+const Button = ({ children, onClick, backgroundColor, hoverColor, pointer }) => {
     return (
         <StyledButton
         onClick={onClick}
         backgroundColor={backgroundColor}
         hoverColor={hoverColor}
+        pointer={pointer}
         >
         {children}
         </StyledButton>

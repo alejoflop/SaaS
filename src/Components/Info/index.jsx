@@ -257,7 +257,7 @@ const Information = () => {
             <StyledTitle>A diverse team of <StyledTitlePrimary>passionate</StyledTitlePrimary> UX nerds who are<br/> here to help your <StyledTitlePrimary>startup succeed</StyledTitlePrimary></StyledTitle>
             <Subtiltle>From ideation to expansion, TDP understands the unique demands of your startup—providing you with <br/> optimized design strategies and fast turnarounds for an affordable monthly subscription.</Subtiltle>
             <Benefits/>
-            <StyledSecondaryTitle>How <StyledTitlePrimary>signing up</StyledTitlePrimary> with The Design Project <StyledTitlePrimary>works</StyledTitlePrimary>!?</StyledSecondaryTitle>
+            <StyledSecondaryTitle id="start">How <StyledTitlePrimary>signing up</StyledTitlePrimary> with The Design Project <StyledTitlePrimary>works</StyledTitlePrimary>!?</StyledSecondaryTitle>
             <SecondarySubtiltle>Take a minute to imagine how you’d feel watching your user count grow, and retention rates stay consistently high. When you prioritize effective UX, better retention and growth are natural consequences. Backed by countless hours of research and testing, TDP blends UX, UI, and Product design into a deliciously smooth process that fuels productivity and success.</SecondarySubtiltle>
             <Steps/>
         </InfoSection>

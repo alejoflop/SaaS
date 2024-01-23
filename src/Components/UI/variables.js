@@ -1,5 +1,6 @@
 export const colorPrimario = "#F86642";
 export const letraPrimario = "#FF734F";
+export const disable = "#FFAD98";
 
 export const fondoClaro = "#F6F6F6";
 export const fondoBanner = "#E0EAF3";
