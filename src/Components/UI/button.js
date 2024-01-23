@@ -18,6 +18,11 @@ const StyledButton = styled.button`
     &:hover {
         background-color: ${(props) => props.hoverColor || letraPrimario};
     }
+
+    @media (max-width: 768px) {
+        padding: 8px 21px;
+        font-size: 14px;
+    }
 `;
 
 const Button = ({ children, onClick, backgroundColor, hoverColor }) => {

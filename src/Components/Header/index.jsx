@@ -27,6 +27,10 @@ const List = styled.ul`
     display: flex;
     gap: 2.313rem;
     font-size: 0.875rem;
+
+    @media (max-width: 768px) {
+    display: none;
+    }
 `;
 
 const StyledLink = styled.a`

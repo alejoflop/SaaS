@@ -16,6 +16,11 @@ const AccesibleDiv = styled.div`
     justify-content: center;
     padding-top: 8.438rem;
     padding-bottom: 5rem;
+
+    @media (max-width: 768px) {
+        padding-top: 4rem;
+    padding-bottom: 4rem;
+    }
 `;
 
 const AccesibleTitle = styled.p`
@@ -25,6 +30,11 @@ const AccesibleTitle = styled.p`
     color: #FFFFFF;
     text-transform: capitalize;
     padding-bottom: 6.813rem;
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+        padding-bottom: 2rem;
+    }
 `;
 
 const StyledTitlePrimary = styled.span`
@@ -36,16 +46,22 @@ const ArticleDiv = styled.div`
     flex-direction: column;
     gap: 4.375rem;
     align-items: center;
+
+    @media (max-width: 768px) {
+        gap: 1.25rem;
+    }
 `;
 
 const Article = styled.img`
-    
+    @media (max-width: 768px) {
+    width: 80%;
+    }
 `
 
 const Accesible = () => {
     return (
         <AccesibleDiv id="getStarted">
-            <AccesibleTitle>How <StyledTitlePrimary>accessible</StyledTitlePrimary> UX design is changing the <br/> <StyledTitlePrimary>businesses</StyledTitlePrimary> for the better</AccesibleTitle>
+            <AccesibleTitle>How <StyledTitlePrimary>accessible</StyledTitlePrimary> UX design is changing the <br/> <StyledTitlePrimary>Businesses</StyledTitlePrimary> for the better</AccesibleTitle>
             <ArticleDiv>
                 <Article src={article1}/>
                 <Article src={article2}/>

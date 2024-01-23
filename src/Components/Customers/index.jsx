@@ -20,7 +20,13 @@ const CustomersDiv = styled.div`
     text-transform: capitalize;
     padding-top: 5rem;
     padding-bottom: 5rem;
-`
+
+    @media (max-width: 768px) {
+        padding-top: 3rem;
+        padding-bottom: 2rem;
+        gap: 1rem;
+    }
+`;
 
 const CustomersTitle = styled.p`
     font-size: 2.375rem;
@@ -28,7 +34,11 @@ const CustomersTitle = styled.p`
     text-align: center;
     color: #FFFFFF;
     text-transform: capitalize;
-`
+
+    @media (max-width: 768px) {
+        font-size: 2rem;
+    }
+`;
 
 const StyledTitlePrimary = styled.span`
     color: ${letraPrimario};
@@ -38,22 +48,36 @@ const DivCustomers = styled.div`
     display: flex;
     justify-content: space-between;
     gap: 1.625rem;
+
+    @media (max-width: 768px) {
+        flex-direction: column;
+        gap: 0;
+    }
 `;
 
 const LogoCustomers = styled.img`
     height: auto;
     width: auto;
+    @media (max-width: 768px) {
+        height: 70px;
+    }
 `;
+
+const Line = styled.img`
+    @media (max-width: 768px) {
+        display: none;
+    }
+`
 
 const LogosCustomers = () => {
     return(
         <DivCustomers>
             <LogoCustomers src={Comb}/>
-            <LogoCustomers src={line}/>
+            <Line src={line}/>
             <LogoCustomers src={Seq}/>
-            <LogoCustomers src={line}/>
+            <Line src={line}/>
             <LogoCustomers src={Acc}/>
-            <LogoCustomers src={line}/>
+            <Line src={line}/>
             <LogoCustomers src={a16z}/>
         </DivCustomers>
     );
