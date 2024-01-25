@@ -229,7 +229,7 @@ return (
 
 const Accesible = () => {
     return (
-        <AccesibleDiv id="getStarted">
+        <AccesibleDiv>
         <AccesibleTitle>
             How <StyledTitlePrimary>accessible</StyledTitlePrimary> UX design is changing the <br />{" "}
             <StyledTitlePrimary>Businesses</StyledTitlePrimary> for the better

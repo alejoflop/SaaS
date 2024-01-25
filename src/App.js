@@ -4,6 +4,8 @@ import Banner from "./Components/Banner";
 import Customers from "./Components/Customers";
 import Information from "./Components/Info";
 import Accesible from "./Components/Accesible";
+import Botonera from "./Components/Cards";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <Customers/>
       <Information/>
       <Accesible/>
+      <Botonera/>
+      <Footer/>
     </div>
   );
 }
