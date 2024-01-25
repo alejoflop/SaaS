@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/SaaS/static/js/main.8990adc3.js",
+    "main.js": "/SaaS/static/js/main.02c8e14c.js",
     "static/media/article3.png": "/SaaS/static/media/article3.49c39301bf0119d222ef.png",
     "static/media/article2.png": "/SaaS/static/media/article2.a664240d51d531267a09.png",
     "static/media/article1.png": "/SaaS/static/media/article1.81565b64652d08bd8955.png",
@@ -18,16 +18,18 @@
     "static/media/Eclipe2.svg": "/SaaS/static/media/Eclipe2.c317f9b7a0048c4228e86b7ca2dd95be.svg",
     "static/media/Eclipe3.svg": "/SaaS/static/media/Eclipe3.1bee899cb4daab887708a1bd961e34d7.svg",
     "static/media/adaptable.svg": "/SaaS/static/media/adaptable.3d65a6a54b2658b4247dcd36fba74e20.svg",
+    "static/media/linkedin.svg": "/SaaS/static/media/linkedin.d63525bef5795d95bbdec9f1c387ed86.svg",
     "static/media/Eclipse1.svg": "/SaaS/static/media/Eclipse1.a561d5812d00e1245befc56ced9f65e9.svg",
+    "static/media/Github.svg": "/SaaS/static/media/Github.26eece748a4a854fb5fea7871eae74bc.svg",
     "static/media/cost.svg": "/SaaS/static/media/cost.6000928c0bd43e632b9f7e666a3837c0.svg",
     "index.html": "/SaaS/index.html",
     "static/media/check.svg": "/SaaS/static/media/check.ff45f50db755dcf1cf98ca77b5394d8f.svg",
     "static/media/arrow-back.svg": "/SaaS/static/media/arrow-back.279e56949d998a461422fa289266cdc0.svg",
     "static/media/arrow-front.svg": "/SaaS/static/media/arrow-front.309c816875d4161644616cbe69c78b21.svg",
     "static/media/Line1.svg": "/SaaS/static/media/Line1.8d8c57fa5933cd5d1ca36e89ea545874.svg",
-    "main.8990adc3.js.map": "/SaaS/static/js/main.8990adc3.js.map"
+    "main.02c8e14c.js.map": "/SaaS/static/js/main.02c8e14c.js.map"
   },
   "entrypoints": [
-    "static/js/main.8990adc3.js"
+    "static/js/main.02c8e14c.js"
   ]
 }
